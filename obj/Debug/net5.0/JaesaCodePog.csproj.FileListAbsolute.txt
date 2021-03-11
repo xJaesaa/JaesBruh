@@ -1,0 +1,16 @@
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\JaesaCodePog.exe
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\JaesaCodePog.deps.json
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\JaesaCodePog.runtimeconfig.json
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\JaesaCodePog.runtimeconfig.dev.json
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\JaesaCodePog.dll
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\ref\JaesaCodePog.dll
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\bin\Debug\net5.0\JaesaCodePog.pdb
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.AssemblyInfo.cs
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.dll
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\ref\JaesaCodePog.dll
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.pdb
+C:\Users\Connor\Desktop\TAFE_Work\Programming\Week2\obj\Debug\net5.0\JaesaCodePog.genruntimeconfig.cache

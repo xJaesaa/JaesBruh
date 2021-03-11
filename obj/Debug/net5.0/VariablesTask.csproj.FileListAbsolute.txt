@@ -1,0 +1,16 @@
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\VariablesTask.exe
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\VariablesTask.deps.json
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\VariablesTask.runtimeconfig.json
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\VariablesTask.runtimeconfig.dev.json
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\VariablesTask.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\ref\VariablesTask.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\VariablesTask.pdb
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.AssemblyInfo.cs
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\ref\VariablesTask.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.pdb
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\VariablesTask.genruntimeconfig.cache

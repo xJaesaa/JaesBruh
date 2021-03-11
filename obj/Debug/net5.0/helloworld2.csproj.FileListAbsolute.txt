@@ -1,0 +1,32 @@
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\helloworld2.exe
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\helloworld2.deps.json
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\helloworld2.runtimeconfig.json
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\helloworld2.runtimeconfig.dev.json
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\helloworld2.dll
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\ref\helloworld2.dll
+C:\Users\Connor\project\helloworld2\bin\Debug\net5.0\helloworld2.pdb
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.csprojAssemblyReference.cache
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.AssemblyInfoInputs.cache
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.AssemblyInfo.cs
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.csproj.CoreCompileInputs.cache
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.dll
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\ref\helloworld2.dll
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.pdb
+C:\Users\Connor\project\helloworld2\obj\Debug\net5.0\helloworld2.genruntimeconfig.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.AssemblyInfo.cs
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\ref\helloworld2.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.pdb
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\helloworld2.exe
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\helloworld2.deps.json
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\helloworld2.runtimeconfig.json
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\helloworld2.runtimeconfig.dev.json
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\helloworld2.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\ref\helloworld2.dll
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\bin\Debug\net5.0\helloworld2.pdb
+C:\Users\Connor\Desktop\TAFE Work\Programming\Week 1\obj\Debug\net5.0\helloworld2.genruntimeconfig.cache
